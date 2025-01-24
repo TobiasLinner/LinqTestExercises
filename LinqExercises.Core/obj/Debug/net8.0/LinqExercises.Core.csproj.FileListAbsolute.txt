@@ -1,0 +1,11 @@
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\bin\Debug\net8.0\LinqExercises.Core.deps.json
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\bin\Debug\net8.0\LinqExercises.Core.dll
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\bin\Debug\net8.0\LinqExercises.Core.pdb
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.AssemblyInfoInputs.cache
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.AssemblyInfo.cs
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.csproj.CoreCompileInputs.cache
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.dll
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\refint\LinqExercises.Core.dll
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\LinqExercises.Core.pdb
+C:\Users\tobbe\Documents\newSchool\Termin2\OOP2\linqexercise\LinqExercises.Core\obj\Debug\net8.0\ref\LinqExercises.Core.dll
